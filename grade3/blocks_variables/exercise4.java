@@ -1,4 +1,4 @@
-package grade3.new_to_java;
+package grade3.blocks_variables;
 
 class exercise4 {
     public static void main(String[] args) {
