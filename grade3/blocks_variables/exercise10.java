@@ -2,7 +2,7 @@ package grade3.blocks_variables;
 
 import java.util.Scanner;
 
-class exercise10 {
+class exercise_10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
